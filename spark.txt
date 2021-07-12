@@ -1,0 +1,11 @@
+Spark-OS gauguin Device Changelog
+
+|13/07/2021|- 6.0
+- User Build
+- Haptics improved
+- Update Audio Configs
+- Fixed Microsoft Teams Speaker issue
+- Update Blobs
+- Shipped with OSS Kernel
+- Misc Fixes
+
