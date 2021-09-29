@@ -9,3 +9,12 @@ Spark-OS gauguin Device Changelog
 - Shipped with OSS Kernel
 - Misc Fixes
 
+|29/08/2021|- 8.0 (Ignite)
+
+▪ Switched Blobs to Global Vendor
+
+▪️ Reduced Jitters (Moar Smooth Now xD)
+
+▪️ CTS fixed & device is certified
+
+▪️ Misc changes
